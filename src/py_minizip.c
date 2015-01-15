@@ -14,7 +14,7 @@
   Copyright (C) 2009-2010 Mathias Svensson ( http://result42.com )
 */
 
-#include <Python.h>
+#include <python.h>
 #include "bytesobject.h"
 
 #if (!defined(_WIN32)) && (!defined(WIN32)) && (!defined(__APPLE__))
